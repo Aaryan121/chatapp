@@ -1,4 +1,5 @@
-import Register from './pages/Register/Register'
+import './styles.scss'
+import Register from './pages/Register'
 
 
 function App() {
